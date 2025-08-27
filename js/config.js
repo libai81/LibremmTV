@@ -74,17 +74,17 @@ const API_SITES = {
         name: '极速资源',
         detail: 'https://jszyapi.com', 
     },
-    91md: {
-        api: 'https://91md.me/api.php/provide/vod',
-        name: '91麻豆',
+    dbzy: {
+        api: 'https://dbzy.tv/api.php/provide/vod',
+        name: '豆瓣资源',
     },
     mozhua: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
         name: '魔爪资源',
     },
-    lspm: {
-        api: 'https://apilsbzy1.com/api.php/provide/vod',
-        name: '老色逼资源',
+    mdzy: {
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+        name: '魔都资源',
     },
     zuid: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
