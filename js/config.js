@@ -114,6 +114,43 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    155a: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: 'AV-155资源',
+    },
+    avzy: {
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
+        name: 'AV-souav资源',
+    },
+    avlsb: {
+        api: 'https://apilsbzy1.com/api.php/provide/vod',
+        name: 'AV-老色逼资源',
+    },
+    vjav: {
+        api: 'https://vjav.comapi.php/provide/vod',
+        name: '日本资源',
+    },
+    yutu: {
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: '玉兔资源',
+    },
+    yuzhi: {
+        api: 'https://api.yzzy-api.com/api.php/provide/vod',
+        name: '优质资源库',
+    },
+    shuoni: {
+        api: 'https://xsd.sdzyapi.com/api.php/provide/vod',
+        name: '索尼-闪电资源',
+    },
+    taopian: {
+        api: 'https://taopianapi.com/api.php/provide/vod',
+        name: '淘片资源',
+    },
+   madou: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: 'AV-91麻豆',
+    },
+
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
